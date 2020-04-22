@@ -24,9 +24,11 @@ const Item = () => {
                         </button>
                     </ul>
                 </nav>
-                {
-                    selectedCategory.map(food => <Food item={food}></Food>)
-                }
+                <div className="row">
+                        {
+                            selectedCategory.map(food => <Food item={food}></Food>)
+                        }
+                </div>
             </div>
             {
 

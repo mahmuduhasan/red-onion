@@ -36,7 +36,7 @@ var dinner = [{
     "description": "How we dream about our future.",
     "photo": "https://i.ibb.co/254zfLH/dinner5.png",
     "price": 6.99,
-    "name": "Garlic Butter Baked Salmon"
+    "name": "Garlic Butter Baked"
 },
 {
     "key": 6,

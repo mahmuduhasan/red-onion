@@ -2,9 +2,10 @@
     margin-left: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
-    border: none;
-    outline: none;
+    border: 3px solid white;
+    border-radius: 10px;
     background-color: white;
+    display: block;
 }
 .nav-item:hover{
     border-bottom: tomato solid 3px;

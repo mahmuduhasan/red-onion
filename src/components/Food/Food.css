@@ -1,3 +1,22 @@
+.food img{
+    height: 180px;
+    width: 180px;
+}
 .food{
-    display: grid;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: rgb(252, 244, 224) solid 2px;
+    border-radius: 10px;
+}
+.description{
+    text-align: center;
+    margin-left: 10px;
+}
+.food:hover{
+    background-color: rgb(252, 244, 224);
+    box-shadow: 2px 2px 10px gray;
+}
+.food button{
+    border: none;
 }

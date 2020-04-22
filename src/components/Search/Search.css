@@ -1,0 +1,13 @@
+.search img{
+    width: 100%;
+}
+.search{
+    position: relative;
+    text-align: center;
+}
+.searchItems{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

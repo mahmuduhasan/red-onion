@@ -1,0 +1,33 @@
+.single-item img{
+    height: 400px;
+    width: 400px;
+    margin-left: 63%;
+}
+.single-item{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: none;
+    background-color: rgb(252, 244 , 224);
+    padding-bottom: 3px;
+}
+.single-item-description{
+    margin-top: 90px;
+    justify-content: center;
+}
+.single-item-description h3{
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.single-item-description h5{
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.single-item-description h4{
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.item-design{
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+}

@@ -9,12 +9,12 @@ const Header = () => {
             <div className="header">
                 <nav className="d-flex justify-content-center">
                     <div className="logo">
-                        <a href="#"><img src={logo} alt=""/></a>
+                        <a href="/home"><img src={logo} alt=""/></a>
                     </div>
                     <div className="navigation">
                         <a className="text-decoration-none" href="#"><FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon></a>
-                        <a className="text-decoration-none" href="#">Login</a>
-                        <a className="signup text-white btn-danger text-decoration-none" href="#">Signup</a>
+                        <a className="text-decoration-none" href="/login">Login</a>
+                        <a className="signup text-white btn-danger text-decoration-none" href="/signup">Signup</a>
                     </div>
                 </nav>
             </div>

@@ -14,6 +14,7 @@ import NotFound from './components/NotFound/NotFound';
 import Login from './components/Login/Login';
 import Food from './components/Food/Food';
 import SingleItem from './components/SingleItem/SingleItem';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
           </Route>
         </Switch>
       </Router>
+      <Footer></Footer>
     </div>
   );
 }
